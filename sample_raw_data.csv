@@ -1,0 +1,11 @@
+Name,Age,City,Salary,JoinDate,Gender
+Asha,25,Bengaluru,55000,2021-05-12,F
+Ravi,30, delhi ,62000,2020-11-03,M
+Meena,,Mumbai,58000,2019-07-23,F
+Karan,28,BENGALURU,,2022-01-15,M
+Asha,25,Bengaluru,55000,2021-05-12,F
+Divya,120,Chennai,60000,2020-03-30,F
+Suresh,35,Delhi,59000,not_a_date,M
+Priya,29,,61000,2021-09-09,F
+Anil,40,Mumbai,150000,2018-06-01,M
+Zoya,,chennai,57000,2022-02-20,F
