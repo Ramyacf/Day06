@@ -13,3 +13,4 @@ PyJWT
 httpx
 pytest
 pytest-asyncio
+slowapi
